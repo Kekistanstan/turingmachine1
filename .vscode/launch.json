@@ -9,7 +9,7 @@
       "name": "main",
       "request": "launch",
       "mainClass": "main",
-      "projectName": "TuringMachina_c5065fb5",
+      "projectName": "turingmachine1_1f930480",
       "vmArgs": "--module-path \"C:/java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
     },
     {
@@ -27,6 +27,6 @@
       "mainClass": "add/addcontrol",
       "projectName": "TuringMachina_c5065fb5",
       "vmArgs": "--module-path \"C:/java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
-    },
+    }
   ]
 }
